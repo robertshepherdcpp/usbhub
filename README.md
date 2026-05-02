@@ -21,6 +21,7 @@ act as the base of the project!.
 
 **how i made the project**
 - made using kicad (for the pcb) and fusion (for the CAD design)
+- using the fallout tutorial (as shown below) as a guide.
 
 **my inspiration for the project**
 - i find that my desk is always messy with various wires, and i thought it would be cool to have a way to organise these (and do it in a fun way aswell!)

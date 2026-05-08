@@ -23,7 +23,7 @@ act as the base of the project!.
 - made using kicad (for the pcb) and fusion (for the CAD design)
 - using the fallout tutorial (as shown below) as a guide.
 
-**my inspiration for the project**
+**my inspiration for the project/the why**
 - i find that my desk is always messy with various wires, and i thought it would be cool to have a way to organise these (and do it in a fun way aswell!)
 - i saw that there was a tutorial for a usb hub on [fallout](https://fallout.hackclub.com/docs/guided-projects/usb-hub), so i decided to give it a go (helping to improve my hardware skills!)
 

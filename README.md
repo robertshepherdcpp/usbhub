@@ -39,7 +39,7 @@ the cad:
 <img width="727" height="445" alt="image" src="https://github.com/user-attachments/assets/c53561d6-40f4-4a6f-b795-0d8790682ec3" />
 <img width="811" height="455" alt="image" src="https://github.com/user-attachments/assets/0c21c8fc-ff24-43c6-b69e-03d402e63dc3" />
 zine:
-<img width="522" height="733" alt="image" src="https://github.com/user-attachments/assets/c6d82122-cc56-4602-8b58-48b3e450d254" />
+<img width="444" height="632" alt="image" src="https://github.com/user-attachments/assets/c3ebb4e3-caa1-49bf-af48-c24feaf44282" />
 
 **the BOM**
 <img width="1466" height="505" alt="image" src="https://github.com/user-attachments/assets/08e91b28-96ca-42f4-b40c-a52ace4a010b" />

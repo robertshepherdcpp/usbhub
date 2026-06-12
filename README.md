@@ -36,7 +36,8 @@ the pcb layout:
 
 
 3d model:
-<img width="852" height="537" alt="image" src="https://github.com/user-attachments/assets/20cf0fe0-2dc4-4bc5-9a0d-4d8977b6444c" />
+<img width="870" height="607" alt="image" src="https://github.com/user-attachments/assets/374cde6f-b371-4429-870b-61121d5a0d1f" />
+
 
 the cad:
 <img width="632" height="575" alt="image" src="https://github.com/user-attachments/assets/afa064d8-290b-4ca9-b034-c909e552cdb3" />

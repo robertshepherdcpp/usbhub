@@ -9,6 +9,10 @@ capcitor,100nf,$2.50,https://alishort.com/V7Wex
 PCB fabrication,jlcpcb,$4,https://www.jlcpcb.com
 PCB shipping,jlcpcb,$3.30,https://www.jlcpcb.com
 Case,case for the project,N/A,N/A
-Cost,Total cost,$18.54,N/A
+Diode,SMA SS14,$1.16,https://www.aliexpress.com/item/1005002377166517.html?spm=a2g0o.productlist.main.8.55079yts9ytsbx&aem_p4p_detail=202606121323453960563661359760000551157&algo_pvid=8c59f154-8f2d-4ddb-9d2a-aa9737500f68&algo_exp_id=8c59f154-8f2d-4ddb-9d2a-aa9737500f68-7&pdp_ext_f=%7B%22order%22%3A%22129%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.18%211.16%21%21%211.18%211.16%21%402103867617812958256128379e7b08%2112000020415642711%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af52ab060%3Bm03_new_user%3A-29895&curPageLogUid=QxT8OI8L3O1o&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002377166517%7C_p_origin_prod%3A&search_p4p_id=202606121323453960563661359760000551157_2
+d_tvs,TVS diode,$2.86,https://www.aliexpress.com/item/1005008994767607.html
+usblc6-2sc6,-,$0.75,https://www.aliexpress.com/i/1005007735079588.html?gatewayAdapt=isr2glo
+crystal 12pF,-,$1.18,https://www.aliexpress.com/item/1005004389041900.html?spm=a2g0o.productlist.main.2.5a59S2xuS2xudQ&algo_pvid=e7505e3d-85de-456a-a013-b84103db70b0&algo_exp_id=e7505e3d-85de-456a-a013-b84103db70b0-1&pdp_ext_f=%7B%22order%22%3A%22166%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.64%211.63%21%21%211.64%211.63%21%402103868817812960632502717e1d9e%2112000029007012943%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af52ab060%3Bm03_new_user%3A-29895%3BpisId%3A5000000206380079&curPageLogUid=qhxO5Qgd4SbF&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004389041900%7C_p_origin_prod%3A
+Cost,Total cost,$24.49,N/A
 
 

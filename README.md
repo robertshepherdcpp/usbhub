@@ -45,7 +45,9 @@ the cad:
 <img width="811" height="455" alt="image" src="https://github.com/user-attachments/assets/0c21c8fc-ff24-43c6-b69e-03d402e63dc3" />
 
 zine:
-<img width="444" height="632" alt="image" src="https://github.com/user-attachments/assets/c3ebb4e3-caa1-49bf-af48-c24feaf44282" />
+
+<img width="623" height="883" alt="image" src="https://github.com/user-attachments/assets/0503978a-99fc-462d-a36d-32363c32a7ad" />
+
 
 
 **the BOM**

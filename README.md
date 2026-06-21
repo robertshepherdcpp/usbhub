@@ -29,18 +29,23 @@ act as the base of the project!.
 
 **screenshots:**
 the schematic:
-<img width="775" height="533" alt="image" src="https://github.com/user-attachments/assets/70aa29b8-79f6-4e1c-a124-4de806ec9f60" />
+
+<img width="1098" height="775" alt="image" src="https://github.com/user-attachments/assets/4e3ac0af-6d62-44e0-bec8-4a1b8a75ba3e" />
+
 
 the pcb layout:
-<img width="830" height="787" alt="image" src="https://github.com/user-attachments/assets/f3a6bf71-3535-439b-9b5b-dc763cae9938" />
+
+<img width="712" height="452" alt="image" src="https://github.com/user-attachments/assets/7bfb4624-b6ce-42f0-977c-47b883b93d98" />
+
 
 
 3d model:
-<img width="870" height="607" alt="image" src="https://github.com/user-attachments/assets/374cde6f-b371-4429-870b-61121d5a0d1f" />
+
+<img width="906" height="650" alt="image" src="https://github.com/user-attachments/assets/dcee9318-6db7-4a51-b3d5-aa36cba2bf17" />
+
 
 
 the cad:
-<img width="632" height="575" alt="image" src="https://github.com/user-attachments/assets/afa064d8-290b-4ca9-b034-c909e552cdb3" />
 <img width="727" height="445" alt="image" src="https://github.com/user-attachments/assets/c53561d6-40f4-4a6f-b795-0d8790682ec3" />
 <img width="811" height="455" alt="image" src="https://github.com/user-attachments/assets/0c21c8fc-ff24-43c6-b69e-03d402e63dc3" />
 

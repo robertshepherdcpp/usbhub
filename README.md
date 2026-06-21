@@ -57,11 +57,10 @@ zine:
 
 **the BOM**
 
-<img width="1483" height="722" alt="image" src="https://github.com/user-attachments/assets/6adff212-3b51-48fa-8e58-89d54d614c37" />
+<img width="1582" height="753" alt="image" src="https://github.com/user-attachments/assets/4ac05a2d-15ea-4e79-834f-43ba103596e6" />
 
 
-
-total cost: $24.49 (not including shipping from digitkey and lcsc)
+total cost: $17.02 (not including shipping from digitkey and lcsc)
 
 
 
